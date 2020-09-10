@@ -9,6 +9,10 @@ body {
   overflow: hidden;
 }
 
+.cube__canvas {
+  outline: none;
+}
+
 .cube__button {
   width: 65px;
   height: 65px;
